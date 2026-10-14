@@ -3,7 +3,6 @@
 [Deployed on Vercel](https://www.google.com/search?q=https%3A%2F%2Fvercel.com)
 [GATE DA 2027](https://www.google.com/search?q=https%3A%2F%2Fgate2027.iitm.ac.in%2F)
 [Content Powered by GeeksforGeeks](https://www.google.com/search?q=https%3A%2F%2Fwww.geeksforgeeks.org%2Fgate%2Fgate-da-notes-according-to-gate-2025-syllabus%2F)
-[License: MIT](https://www.google.com/search?q=https%3A%2F%2Fopensource.org%2Flicenses%2FMIT)
 
 An open-source, interactive web application engineered for **GATE 2027 Data Science & Artificial Intelligence (DA)** aspirants. Designed around a high-yield **3.5-month (15-week) sprint**, this hub unifies the complete 168-subtopic syllabus, an **in-portal live GeeksforGeeks article reader**, a CBT negative-marking simulator, formula flashcards, and persistent progress tracking in a single zero-cold-start workspace.
 
