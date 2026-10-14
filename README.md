@@ -1,5 +1,3 @@
-# gate-da-2027-hub
-
 # 🎯 GATE DA 2027 — One-Stop Preparation & Command Center
 
 [Deployed on Vercel](https://www.google.com/search?q=https%3A%2F%2Fvercel.com)
